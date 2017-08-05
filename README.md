@@ -20,3 +20,9 @@ we can try :
     
 if the git content change, then a pull is executed and the configuration is refreshed
 
+
+
+
+to force the refresh of the consumer,
+perform a POST on http://localhost:3877/refresh
+with @RefreshScope
