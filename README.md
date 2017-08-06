@@ -26,3 +26,4 @@ if the git content change, then a pull is executed and the configuration is refr
 to force the refresh of the consumer,
 perform a POST on http://localhost:3877/refresh
 with @RefreshScope
+pour refreshautomatique, voir : http://tech.asimio.net/2017/02/02/Refreshable-Configuration-using-Spring-Cloud-Config-Server-Spring-Cloud-Bus-RabbitMQ-and-Git.html
